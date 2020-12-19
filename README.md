@@ -1,7 +1,7 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
+After clone this repository, you can run:
 
 ### `npm start`
 First: in root directory command "npm install"<br />
