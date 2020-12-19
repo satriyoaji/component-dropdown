@@ -3,7 +3,7 @@
 
 After clone this repository, you can run:
 
-### `npm start`
+### `npm install and npm start`
 First: in root directory command "npm install"<br />
 
 Runs the app in the development mode.<br />
